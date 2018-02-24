@@ -1,5 +1,5 @@
 {
-"changelog":"fix connect bug",
-"version":2,
-"installUrl":"https://raw.githubusercontent.com/galatec/gca/master/app.apk"
+"updateMessage":"fix connect bug",
+"versionCode":2,
+"url":"https://raw.githubusercontent.com/galatec/gca/master/app.apk"
 }
